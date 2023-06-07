@@ -1,3 +1,6 @@
 [submodule "AstroChessApp"]
 	path = AstroChessApp
 	url = git@github.com:AstroChess/AstroChessApp.git
+[submodule "AstroChessBackend"]
+	path = AstroChessBackend
+	url = git@github.com:AstroChess/AstroChessBackend.git
