@@ -4,3 +4,6 @@
 [submodule "AstroChessBackend"]
 	path = AstroChessBackend
 	url = git@github.com:AstroChess/AstroChessBackend.git
+[submodule "AstroChessAuth"]
+	path = AstroChessAuth
+	url = git@github.com:AstroChess/AstroChessAuth.git
