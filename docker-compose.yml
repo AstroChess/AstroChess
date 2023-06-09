@@ -1,0 +1,7 @@
+services:
+  auth:
+    build:
+      context: ./AstroChessAuth
+      dockerfile: ./Dockerfile
+    ports:
+      - "8080:3000"
